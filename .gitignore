@@ -55,7 +55,6 @@ analysis_benchmark.json
 .packages
 .pub-cache/
 .pub/
-.fvm/flutter_sdk
 build/
 flutter_*.png
 linked_*.ds
@@ -149,3 +148,6 @@ node_modules/
 test/
 web/
 windows/
+
+# FVM Version Cache
+.fvm/
